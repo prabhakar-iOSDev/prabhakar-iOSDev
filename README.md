@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Prabhakar Tiwari
-
+Senior iOS Engineer <br>⚡ Swift | SwiftUI | UIKit | MVVM-C | Combine | Async/Await<br>🔐 Secure architecture & scalable mobile systems<br>🔵 BLE | System Design | Performance Optimization<br>🚀 Turning complex problems into elegant iOS solutions
 Email Me 👉 ✉️ **prabhakartiwari025@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <!--
@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 💫 About Me:
-Senior iOS Engineer <br>⚡ Swift | SwiftUI | UIKit | MVVM-C | Combine | Async/Await<br>🔐 Secure architecture & scalable mobile systems<br>🔵 BLE | System Design | Performance Optimization<br>🚀 Turning complex problems into elegant iOS solutions
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/prabhakar-tiwari-5068401a0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhakartiwari025@gmail.com) 
